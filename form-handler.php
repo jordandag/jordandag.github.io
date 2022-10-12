@@ -4,7 +4,7 @@ $visitor_email = $_POST['email'];
 $subject = $_POST['subject'];
 $message = $_POST['message'];
 
-$email_from = 'http://127.0.0.1:5500/contact.html';
+$email_from = 'https://jordandag.github.io';
 
 $email_subject = 'New Form Submission';
 
